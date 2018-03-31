@@ -14,8 +14,10 @@ class collectiionimageViewController: UIViewController {
     
    
     
+    func reloadInputViews() {
+        d
+    }
     
-
     override func viewDidLoad() {
         super.viewDidLoad()
 
