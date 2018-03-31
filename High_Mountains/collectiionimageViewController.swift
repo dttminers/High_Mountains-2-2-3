@@ -16,6 +16,7 @@ class collectiionimageViewController: UIViewController {
     
     func reloadInputViews() {
         didReceiveMemoryWarning()
+        didReceiveMemoryWarning()
     }
     
     override func viewDidLoad() {
